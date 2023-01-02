@@ -26,7 +26,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 - 📫 How to reach me *anmoljagota08@gmail.com*
 
-- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1Vf4IFTvVt7ix-WO8ASZZ-We8xelPDbb3/view?usp=share_link" rel="noopener noreferrer" download target="_blank">RESUME</a>
+- 📄 Know about my work in my <a href="https://drive.google.com/file/d/1l3doE56pdQO9xBHt5hajrk7TfO9SEJ0p/view?usp=sharing" rel="noopener noreferrer" download target="_blank">RESUME</a>
 
 
 <br>
