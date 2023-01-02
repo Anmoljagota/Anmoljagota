@@ -85,7 +85,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 <h3 align="left"> 📊 My Github Stats</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anmoljagota&label=Profile%20views&color=0e75b6&style=flat" alt="gouseimmu" />
-<a href="https://github.com/gouseimmu?tab=followers"><img src="https://img.shields.io/github/followers/gouseimmu?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Anmoljagota?tab=followers"><img src="https://img.shields.io/github/followers/Anmoljagota?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
   
