@@ -103,15 +103,15 @@ I have 1200+ hrs hands-on coding experience</h3>
  	
 <p align="center">
     <a href="https://github.com/gouseimmu/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gouseimmu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gouseimmu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gouseimmu streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmoljagota&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
  
 
- <p align="center"<a href="#"><img alt="gouseimmu-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=gouseimmu&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
+ <p align="center"<a href="#"><img alt="gouseimmu-github-stats-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmoljagota&bg_color=0D1117&color=42a5f5&line=42a5f5&point=FFFFFF&hide_border=true&"/></a></p>
 
-<p align="center"> <a href="https://github.com/gouseimmu"><img src="https://github-profile-trophy.vercel.app/?username=gouseimmu&margin-w=5&theme=radical" alt="gouseimmu" /></a> </p>
+<p align="center"> <a href="https://github.com/gouseimmu"><img src="https://github-profile-trophy.vercel.app/?username=Anmoljagota&margin-w=5&theme=radical" alt="gouseimmu" /></a> </p>
 
  </div>
 
