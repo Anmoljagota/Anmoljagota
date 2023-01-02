@@ -1,6 +1,6 @@
  
   <h1 align="center">
-    Hii@  I'm Shaik Gouse 👋 </h1>
+    Hii@  I'm Anmol Jagota 👋 </h1>
      <h3 align="center">I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 I have 1200+ hrs hands-on coding experience</h3>
     <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" width="35vh" alt="gouse">
@@ -20,11 +20,11 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-- 👨‍💻 All of my projects are available at <a href="https://gouseimmu.github.io/" rel="noopener noreferrer" target="_blank">PORTFOLIO</a>
+- 👨‍💻 All of my projects are available at <a href="https://anmoljagota.github.io/" rel="noopener noreferrer" target="_blank">PORTFOLIO</a>
 
 - 💬 Ask me about *MERN stack*
 
-- 📫 How to reach me *gouseimmugh@gmail.com*
+- 📫 How to reach me *anmoljagota08@gmail.com*
 
 - 📄 Know about my work in my <a href="https://drive.google.com/file/d/1Vf4IFTvVt7ix-WO8ASZZ-We8xelPDbb3/view?usp=share_link" rel="noopener noreferrer" download target="_blank">RESUME</a>
 
@@ -76,7 +76,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anmol-jagota-69a861192" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
 </p>
 
 <!------------------------------------- githuib status part -------------------------------->
@@ -84,7 +84,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 <h3 align="left"> 📊 My Github Stats</h3>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gouseimmu&label=Profile%20views&color=0e75b6&style=flat" alt="gouseimmu" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anmoljagota&label=Profile%20views&color=0e75b6&style=flat" alt="gouseimmu" />
 <a href="https://github.com/gouseimmu?tab=followers"><img src="https://img.shields.io/github/followers/gouseimmu?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
   <br/>
@@ -92,7 +92,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gouseimmu&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="gouseimmu" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouseimmu&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="gouseimmu" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anmoljagota&bg_color=0D1117&color=2196f3&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="gouseimmu" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouseimmu&bg_color=0D1117&color=2196f3&layout=compact&border_radius=0" alt="gouseimmu" height="139" />
 </p>
 
 <br/>
