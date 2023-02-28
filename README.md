@@ -76,7 +76,7 @@ I have 1200+ hrs hands-on coding experience</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/anmol-jagota-69a861192" rel="noopener noreferrer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/anmol-jagota-69a861192" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaik-gouse-94b50a1b8/" height="30" width="40" /></a>
 </p>
 
 <!------------------------------------- githuib status part -------------------------------->
