@@ -75,11 +75,11 @@ I have 1200+ hrs hands-on coding experience</h3>
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <a href="www.linkedin.com/in/anmol-75084-jagota" >
  <img align="center" src="https://th.bing.com/th/id/OIP.IfuhJTGsN34WQqAZIdufvQHaHa?w=149&h=180&c=7&r=0&o=5&pid=1.7" height="30" width="40" target="_blank"/>
  </a>
-</p>
+
 
 <!------------------------------------- githuib status part -------------------------------->
 
