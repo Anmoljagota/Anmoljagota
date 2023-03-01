@@ -78,11 +78,12 @@ I have 1200+ hrs hands-on coding experience</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/anmol-75084-jagota/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-40004b86/" height="30" width="40" /></a>
 </p>
+ <br/>
 
 <!------------------------------------- githuib status part -------------------------------->
 
 
-<h3 align="left" margin="50px 0px 0px 0px"> 📊 My Github Stats</h3>
+<h3 align="left"> 📊 My Github Stats</h3>
 <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anmoljagota&label=Profile%20views&color=0e75b6&style=flat" alt="gouseimmu" />
 <a href="https://github.com/Anmoljagota?tab=followers"><img src="https://img.shields.io/github/followers/Anmoljagota?label=Followers&style=social" alt="GitHub Badge"></a>
