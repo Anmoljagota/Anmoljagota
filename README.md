@@ -69,3 +69,14 @@
 <code><img width="10%" src="https://th.bing.com/th/id/OIP.o1Sc0dD-kDO8KEiVKpTY0QAAAA?pid=ImgDet&rs=1"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
+</br>
+
+### 🗄️ Databases and cloud hosting
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://th.bing.com/th/id/OIP.f3EQaSjRzGAwJ13C4ttwGgHaC0?pid=ImgDet&rs=1"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/replit/replit-ar21.svg"></code>
+
+</br>
+
