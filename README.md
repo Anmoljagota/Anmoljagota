@@ -61,3 +61,11 @@
 <!-- <code><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></code>
 <code><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></code> -->
 
+</br>
+
+### 🧰  libraries
+
+<code><img width="10%" src="https://cdn-images-1.medium.com/max/2400/1*FDNeKIUeUnf0XdqHmi7nsw.png"></code>
+<code><img width="10%" src="https://th.bing.com/th/id/OIP.o1Sc0dD-kDO8KEiVKpTY0QAAAA?pid=ImgDet&rs=1"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
