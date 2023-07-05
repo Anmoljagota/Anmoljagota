@@ -92,3 +92,16 @@
 
 </br>
 
+<!-- ----------------------------------------------------------    Social Media  ---------------------------------------------------------------------- -->
+<div>
+
+## 📮Be Connected :
+ 
+<code><a href="https://www.linkedin.com/in/anmol-75084-jagota/"><img width="10%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<code><a href="https://leetcode.com/anmol_jagota/"><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg"></a></code>
+
+| Fun Fact  | Spotify |
+ | :---: | :---: |
+| ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&redirect=true) |
+| 😅 | 🎧 |
+
