@@ -105,3 +105,18 @@
 | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&redirect=true) |
 | 😅 | 🎧 |
 
+<!-- -------------------------------------------------------------   Trophy and Stats  ------------------------------------------------------------------------- -->
+
+## Trophy & Stats :
+
+| [![trophy](https://github-profile-trophy.vercel.app/?username=Anmoljagota)](https://github.com/ryo-ma/github-profile-trophy) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmoljagota&layout=compact)](https://github.com/Anmoljagota/github-readme-stats) |
+| :---: | :---: |
+
+
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anmoljagota&theme=dark&show_icons=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=Anmoljagota&theme=dark&border_radius=4)](https://git.io/streak-stats) |
+| :---: | :---: |
+
+
+<details>
+   <summary><b>:rocket: &nbsp;Github stats Detailed</b></summary>
+   </br>
