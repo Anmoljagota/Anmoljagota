@@ -44,3 +44,20 @@
  
  <img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
 
+ ## Skills : 
+
+ ### 👨‍💻 Programming and markup languages
+
+<code><img width="10%" src="https://www.gravoc.com/wp-content/uploads/2018/02/react-logo.png"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://th.bing.com/th/id/OIP.6lAkqbsvmw0gKpNuxwChZAHaCs?pid=ImgDet&rs=1"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
+<code><img width="10%" src="https://th.bing.com/th/id/OIP.AWTnhsaragVR9pF86bHRBQHaD7?pid=ImgDet&rs=1"></code>
+
+<!-- <code><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></code>
+<code><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></code> -->
+
