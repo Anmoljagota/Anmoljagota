@@ -125,3 +125,8 @@
 <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmoljagota&theme=2077"/></td></tr></table>
 <table><tr><td width="430"><img width="500"  height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anmoljagota&theme=2077"/></td>
 <td width="430"><img width="500" height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmoljagota&theme=2077"/></td></tr></table>
+
+<!-- [![Anmol's github activity graph](https://activity-graph.herokuapp.com/graph?username=Anmoljagota3&theme=react-dark)](https://github.com/Anmoljagota/github-readme-activity-graph)   -->
+
+</br>
+</details>
