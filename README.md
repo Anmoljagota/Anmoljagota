@@ -2,20 +2,23 @@
 <!-- 
 ![Blue Isometric Line Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/105943862/200484450-6bc2f1be-6e5a-4e91-a6d8-c45a18949f5a.png)
  -->
- ### Hi 👋, I am Anmol Jagota Analytical and detail-oriented Full Stack developer capable of writing production-ready code using React.Js .Redux and CSS on the frontend & NodeJs, Express.Js on the backend to build single page application. Passionate about coding and strongly interested to work with a Product-based company.Experience includes roles such as MERN Stack Developer at Nolan Edutech, where I developed and maintained full-stack applications.
-<p>
+
+ <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&background=FFFFFF00&width=700&height=51&lines=Full+Stack+Web+Developer;Rising+MERN+Stack+Developer" alt="Typing SVG" /></a>
 </p>
+Hi 👋, I am Anmol Jagota Analytical and detail-oriented Full Stack developer capable of writing production-ready code using React.Js .Redux and CSS on the frontend & NodeJs, Express.Js on the backend to build single page application. Passionate about coding and strongly interested to work with a Product-based company.Experience includes roles such as MERN Stack Developer at Nolan Edutech, where I developed and maintained full-stack applications.
+
 
 <!-- <img src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" alt="CoderAnmo" width = "100%" height= "400">  -->
 
 <!-- --------------------------------------------------------------    Intoduction  ---------------------------------------------------------------------------- -->
 
 <div>
-
+</div>
+</br></br>
  <img src="https://topdevs.org/images/site/services/webdev/hero-bg.svg" alt="Coder" width = "50%" height= "270" align = "right"> 
  
-</br> </br>
+</br> </br></br>
 <!-- [![Followers](https://img.shields.io/github/followers/abhishek-0713)](#) -->
  [![Stars](https://img.shields.io/github/stars/Anmoljagota?label=Profile%20Stars&logo=Profile%20stars&logoColor=b)](#) 
 ![Profile views](https://gpvc.arturio.dev/Anmoljagota)
